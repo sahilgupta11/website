@@ -1,0 +1,136 @@
+*{
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(250, 111, 65);
+}
+h2{
+    text-align: center;
+    color: rgb(243, 124, 45);
+}
+
+h3{
+    color: rgb(58, 8, 8);
+    margin-right: 25px;
+}
+
+.buttons{
+    width: 100%;
+    text-align: center;
+    background-color: rgb(180, 101, 168);
+}
+
+.watch{
+    border:inset 5px;
+    border-color: orange;
+    background-color: rgb(180, 101, 168);
+    width: 500px;
+    height: 600px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.intro{
+    text-align: center;
+    font-family: cursive;
+    
+}
+img{
+    margin:0 auto;
+    width: 100%;
+    height: 330px;
+    background-color:aliceblue;
+}
+.name{
+    text-align: center;
+    color: rgb(26, 3, 48);
+    font-size: 30px;
+    background-color: rgb(180, 101, 168);
+    
+}
+.price{
+    text-align: center;
+    border: 1px;
+    font-size: 28px;
+    font-weight: bold;
+    color:rgb(4, 26, 68);
+    background-color: rgb(180, 101, 168);
+    
+}
+
+.cart{
+    padding: 10px 20px;
+    border: solid 2px grey;
+    outline: none;
+    font-size: 1rem;
+    border-radius: 10px ;
+    background-color: yellow;
+    font-weight: bold;
+
+    
+}
+.history{
+    overflow: scroll;
+    width: 600px;
+    height: 220px;
+    margin-left: 370px;
+    margin-right: 420px;
+    color:aliceblue;
+    background-color:black;
+}
+
+.tab{
+    margin-left: 450px;
+}
+    
+   
+
+table, th, td{
+    border: 2px solid black;
+    color: rgb(9, 72, 114);
+    background-color: rgb(241, 129, 197);
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.rate{
+    text-align:right;
+    margin-top: 80px;
+    font-size: large;
+    width: 50%;
+    display: inline-block;
+    margin-left: 30%;
+    margin-right: 0;
+    color: brown;
+}
+
+select{
+    font-size: large;
+    color: black;
+    background-color: red;
+}
+
+.share{
+    margin-top: 120px;
+    width: 50%;
+    display: inline;
+
+}
+
+.send{
+    font-size:x-large;
+    font-family: cursive;
+    border: 2px solid yellow;
+    background-color: red;
+    color: black;
+
+
+
+}
+.send:hover{
+    color: red;
+    background-color: yellow;
+}
